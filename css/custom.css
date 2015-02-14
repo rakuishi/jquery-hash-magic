@@ -1,0 +1,94 @@
+/*! stylesheet for jquery.hash-magic.js demo */
+
+html, body {
+  height: 100%;
+}
+
+body {
+  font-family: 'Open Sans', 'HelveticaNeue', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 1.5em;
+  font-weight: 400;
+}
+
+a,
+a:hover {
+  color: white;
+}
+
+.u-bgc5 {
+  background-color: #ABB8C2;
+}
+
+.navbar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  height: 44px;
+  line-height: 44px;
+  z-index: 10000;
+  padding: 0 10px;
+  background-color: #FFFFFF;
+  box-shadow: 1px 0 2px #ABB8C2;
+}
+
+.navbar > .inner {
+  display: block;
+  height: 100%;
+}
+
+.navbar-list {
+  display: table;
+}
+
+.navbar-list > .navbar-item {
+  display: table-cell;
+}
+
+.navbar-list > .navbar-item > a {
+  display: block;
+  height: 44px;
+  padding: 0 1rem;
+  font-weight: 600;
+  color: #66757F;
+}
+
+.navbar-list > .navbar-item > a:hover,
+.navbar-list > .navbar-item > a.active {
+  border-bottom: 3px solid #ABB8C2;
+}
+
+.navbar-list > .navbar-item > h1 {
+  display: inline-block;
+}
+
+.navbar-list > .navbar-item > h1 > a {
+  display: inline-block;
+  margin-right: 1rem;
+  color: #ABB8C2;
+}
+
+.navbar-list > .navbar-item > h1 > a:hover {
+  opacity: 0.75;
+}
+
+.container {
+  height: 100%;
+}
+
+.section {
+  position: relative;
+  height: 100%;
+  min-height: 500px;
+  text-align: center;
+}
+
+.section > .section-title {
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  margin-top: -2rem;
+  font-size: 4rem;
+  line-height: 1;
+  color: white;
+  text-transform: uppercase;
+}
