@@ -1,0 +1,24 @@
+{
+  "name": "jquery-hash-magic",
+  "version": "0.1",
+  "description": "",
+  "main": "jquery.hash-magic.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rakuishi/jquery-hash-magic"
+  },
+  "author": "OCHIISHI Koichiro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rakuishi/jquery-hash-magic/issues"
+  },
+  "homepage": "https://github.com/rakuishi/jquery-hash-magic",
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-jsmin": "^0.1.4",
+    "gulp-rename": "^1.2.0"
+  }
+}
