@@ -1,8 +1,10 @@
 # Hash Magic
 
+The jQuery plugin for changing hash when manually scrolled.
+
 ## Demo
 
-![jquery-hash-magic-demo](https://raw.githubusercontent.com/rakuishi/static/master/images/jquery-hash-magic-demo.gif)
+![jquery-hash-magic](https://raw.githubusercontent.com/rakuishi/static/master/images/jquery-hash-magic.gif)
 
 ## Usage
 
