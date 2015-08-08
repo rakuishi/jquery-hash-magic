@@ -1,6 +1,6 @@
 # Hash Magic
 
-The jQuery plugin for changing hash when manually scrolled.
+> The jQuery plugin for changing hash when manually scrolled.
 
 ## Demo
 
