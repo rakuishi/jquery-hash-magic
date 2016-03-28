@@ -1,8 +1,8 @@
 {
   "name": "jquery-hash-magic",
-  "version": "0.1",
+  "version": "0.1.0",
   "description": "",
-  "main": "jquery.hash-magic.js",
+  "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
